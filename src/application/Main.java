@@ -1,7 +1,4 @@
-package Application;
-
-import boardgame.Board;
-import boardgame.Position;
+package application;
 import chess.ChessMatch;
 
 public class Main {
